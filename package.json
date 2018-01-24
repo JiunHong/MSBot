@@ -1,0 +1,19 @@
+{
+  "name": "botbuilder-luis-actionbinding-integral-sample",
+  "version": "1.0.0",
+  "description": "BotBuilder - LUIS Action Binding and QnA Maker Bot",
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "botbuilder": "^3.13.1",
+    "botbuilder-cognitiveservices": "file:../botbuilder-cognitiveservices-master/node",
+    "botbuilder-teams": "^0.1.7",
+    "html-entities": "^1.2.1",
+    "jsonpath": "^1.0.0",
+    "lodash": "^4.17.4",
+    "request-promise": "^4.2.2",
+    "restify": "^4.3.2",
+    "schema-inspector": "^1.6.8"
+  }
+}
